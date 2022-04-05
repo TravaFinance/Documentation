@@ -1,19 +1,22 @@
 # Table of contents
 
-* [Introduction](README.md)
-* [Deposit an asset in a pool](deposit-an-asset-in-a-pool.md)
-* [Withdraw an asset in a pool](withdraw-an-asset-in-a-pool.md)
-* [Borrow an asset in a pool](borrow-an-asset-in-a-pool.md)
-* [Repay your loan](repay-your-loan.md)
-* [List of tokens supported by TRAVA](list-of-tokens-supported-by-trava.md)
+* [Introduction to Trava](README.md)
+* [Staking/Depositing & Earning](staking-depositing-and-earning.md)
+* [Borrowing](borrowing.md)
+* [Testing Trava](testing-trava.md)
+* [Liquidations](liquidations.md)
+* [Troubleshooting](troubleshooting.md)
+* [Trava Credit Score](trava-credit-score.md)
+* [NFTs](nfts.md)
+* [Listing](listing.md)
 
-## ADDITIONAL DOCUMENT
+## Additional Documentation
 
 ***
 
-* [FAQ](https://docs.trava.finance/faq/)
 * [Community Telegram](https://t.me/trava\_finance)
 * [Whitepaper](https://docs.trava.finance/whitepaper)
 * [Risk Management](https://docs.trava.finance/risk-management)
 * [Security](https://docs.trava.finance/security)
+* [User Guide](https://docs.trava.finance/user-guide)
 * [Trava Knight NFT](https://docs.trava.finance/nfts/)
