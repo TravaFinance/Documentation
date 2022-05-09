@@ -1,4 +1,4 @@
-# TRAVA Forum User guide
+# TRAVA Forum User Guide
 
 ## **Register**
 
@@ -13,7 +13,7 @@
 
 * Enter **“Username”**
 * Enter **“Password”**
-* Confirm Password
+* Confirm **"Password"**
 * Click **“Register Now”**
 
 ![](https://lh3.googleusercontent.com/9djhXZBK6r74YYv9qUUmiVZ4GD\_fZYR3ZQCgtXsh5GJdxool5\_-VKZHuA0ks-Yq\_IrUCSADSdy9DqhJPx7scdPB02wnbKTk4xAlpZ5Up1JUphQGBpX1ejVZtlA3Fpr37oRBM0cyaHtXxvabqZw)

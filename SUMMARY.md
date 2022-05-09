@@ -1,8 +1,8 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Lending pool user guide](lending-pool-user-guide.md)
-* [TRAVA Forum User guide](trava-forum-user-guide.md)
+* [Lending pool User Guide](lending-pool-user-guide.md)
+* [TRAVA Forum User Guide](trava-forum-user-guide.md)
 * [Trava DAO User Guide](trava-dao-user-guide.md)
 
 ## ADDITIONAL DOCUMENT
