@@ -18,11 +18,7 @@ Note that:
 
 The warm-up reward will be applied from 3 P.M UTC 11th May 2022 with the detailed information as below:
 
-|                                                     |                                                                          |                                                     |
-| --------------------------------------------------- | ------------------------------------------------------------------------ | --------------------------------------------------- |
-| **Locking time**                                    | **Weekly Rewards**                                                       | **Warm-up rewards**                                 |
-| From 3 P.M UTC Monday to 2:59 P.M UTC Tuesday       | Rewards from 3 P.M UTC this Tuesday, to 2.59 P.M UTC next Tuesday.       | Rewards from locking time to 3 P.M UTC next Tuesday |
-| From 3 P.M UTC Tuesday to 2:59 P.M UTC next Tuesday | Rewards from 3 P.M UTC next Tuesday, to 2.59 P.M UTC, Tuesday after next | Rewards from locking time to 3 P.M UTC next Tuesday |
+![](https://lh3.googleusercontent.com/-uSaQjHzssvla8xeGIrGfMo\_bodmMH7dDHMzNvsyaW2IVtbLrUL11gA73yiuLOox3\_JYjQ-6bHK-Rl\_F71L2cZ6EIwbkS59ZlUGnpzblIkylUAEICJDDaO3jX-m66\_rgRghv9dxvkQNyiQQnbQ)
 
 The APR used for calculating the warm-up rewards is 15%
 
