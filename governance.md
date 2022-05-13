@@ -18,7 +18,7 @@ Note that:
 
 The warm-up reward will be applied from 3 P.M UTC 11th May 2022 with the detailed information as below:
 
-![](https://lh3.googleusercontent.com/-uSaQjHzssvla8xeGIrGfMo\_bodmMH7dDHMzNvsyaW2IVtbLrUL11gA73yiuLOox3\_JYjQ-6bHK-Rl\_F71L2cZ6EIwbkS59ZlUGnpzblIkylUAEICJDDaO3jX-m66\_rgRghv9dxvkQNyiQQnbQ)
+![](<.gitbook/assets/image (1).png>)
 
 The APR used for calculating the warm-up rewards is 15%
 
