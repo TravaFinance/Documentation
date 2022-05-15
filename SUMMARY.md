@@ -4,7 +4,7 @@
 * [FAQ](https://docs.trava.finance/faq)
 * [Community Telegram](https://t.me/trava\_finance)
 * [Whitepaper](https://docs.trava.finance/whitepaper)
-* [Governance](governance.md)
+* [Governance](https://docs.trava.finance/Governance/)
 * [Risk Management](https://docs.trava.finance/risk-management)
 * [Security](https://docs.trava.finance/security)
 * [User Guide](https://docs.trava.finance/user-guide)
