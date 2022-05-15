@@ -24,7 +24,7 @@ We would like to invite you to join the Trava community [https://t.me/trava\_fin
 
 ## **Whitepaper**
 
-The white paper is a report to briefly inform users about Trava protocol, complex issues, and Trava features. Please visit our white paper [https://docs.trava.finance/](https://docs.trava.finance/) to have an overview of Trava.Finance.
+The white paper is a report to briefly inform users about Trava protocol, complex issues, and Trava features. Please visit our white paper [https://docs.trava.finance/](https://docs.trava.finance) to have an overview of Trava.Finance.
 
 ## **Risk Management**
 
