@@ -83,3 +83,38 @@ Select the token you want to lock, input lock amount, and select unlock time to 
 **2.** Click **Lock Time.**
 
 **3.** Your wallet notification will appear, you check again the total amount and gas fee. If they are right, click **Confirm.**
+
+## **How to vote?**
+
+### **Proposal Status**
+
+After being created on-chain, a proposal can have 8 types of statuses:
+
+* Pending: signals the waiting period before voting, the community can prepare their voting power during this period.
+* Active: signals the voting period, anyone can vote For or Against once for each proposal.
+* Cancel: signals a proposal has been canceled by the SAB or the proposer themselves for some reason.
+* Defeated: signals a defeated proposal.
+* Succeeded: signals a succeeded proposal, which can only occur when the quorum is reached and the For votes surpass the Against votes.
+* Queued: signals the delay process for a proposal to be executed after a successful voting period.
+* Executed: signals all proposal’s actions have been performed correctly.
+* Expired: signals a proposal could not be executed for some reason after the delay process.
+
+### **Cast your vote**
+
+![](https://lh6.googleusercontent.com/DdYyY2Z9asHAWMUT4-RLA1qgUza\_oRwhv21rwvckoRLQULkL8KeiPK70Rf3A4cvYnSBG-Ga9MyrapLn-9aa5mx9JAMPvXf6qodnqPFsNshjLKrsXM84GWvythlMc6PPoA1vVtiubVxu8EvxXfA)
+
+1\. Click the proposal’s title or double-click the proposal component in the proposals list.
+
+![](https://lh6.googleusercontent.com/ofbA5oldBcy-HP9FqzmV9RfwipXqN-sWPhN0xVKhJXFimpACoWnILrnVtEHJYw9EGOlz2aCLKQKnX8UgUbJ7B\_AroGh8eJL8YWJ9R8ooXWYW50B1aPs1yCBLCjlW6mTCc6qhiPKgIx1u5kSWqQ)
+
+2\. Read thoroughly the proposal’s details and decide to vote _**For**_ or _**Against**_.
+
+![](https://lh4.googleusercontent.com/xyAg34JxkzHcqi3U4r1tdDmNO5kj-8fqaL3Vl0i2Y1EHCI77uOXv46QmqxpZ3NGP0\_-J4oloi1DMPysll52SchD\_IRX1aTFM7P\_iXlTYzrQ-Dju1lBrcmt038lrrZ3w1IOrYHL\_AWwrTeKn36g)
+
+3\. Click _**For/Against**_ button depending on your decision.
+
+![](https://lh6.googleusercontent.com/Am5Bvvdy5ibjXxxpumnKldKQ9tX6JeIGG09hsaySfsqvfzr0AyA-bQ6\_SYDLYRAy5tuAMlQh52SiOhRUfgvN\_XdlzlUj7tOM0avmT-x7MSvzLBXOztvU5WDa1j5wxTWiCA3ZqkQcC\_VPOL5eig)
+
+4\. Click _**Confirm.**_
+
+5\. Your wallet notification will appear, you check again the total amount and gas fee. If they are right, click _**Confirm**_.
