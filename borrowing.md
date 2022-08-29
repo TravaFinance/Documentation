@@ -24,7 +24,7 @@ When borrowing, the interest rate you need to pay depends on the borrowing rate 
 
 Health factor is an indicator which is used to evaluate the level of safety of your collateral assets against the borrowed assets and its underlying value. You should keep this indicator as high as possible because the higher the value is, the safer your loans are against liquidation scenarios. The liquidation of your deposits will be triggered if the health factor reaches 1. And if the health factor is below 1, your collateral can be liquidated. The health factor is determined depending on the liquidation threshold of your collateral against your borrowed funds.
 
-## **What is the meaning of health factor fluctuation?**&#x20;
+## **What is the meaning of health factor fluctuation?**
 
 The health factor increases or decreases depending on the value fluctuation of your deposited amount. Your health factor increases is a positive indicator, it will improve your borrow position and protect your collateral far from being liquidated. In the case the health factor reduces, it means the value of your collateral assets against the borrowed assets also reduces, it can result in a risk of liquidation of your collaterals.
 
@@ -34,4 +34,4 @@ As long as you maintain your health factor safe, you can borrow for an undefined
 
 ## **How to repay the loan?**
 
-In order to pay back the loan you go to the Borrowings section of your dashboard and click on the repay button for the asset you borrowed and want to repay. Select the amount to pay back and approve the transaction.\
+In order to pay back the loan you go to the Borrowings section of your dashboard and click on the repay button for the asset you borrowed and want to repay. Select the amount to pay back and approve the transaction.
