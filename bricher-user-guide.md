@@ -151,7 +151,7 @@ _You first need to connect your wallet to use these functions._
 
 Then, click the “Portfolio” button, and a list of sub-functions will appear, including Asset, BRicher Diaries, Your Investment and Notification.
 
-### Asset Sections
+### Asset Section
 
 <figure><img src=".gitbook/assets/asset.png" alt=""><figcaption></figcaption></figure>
 
