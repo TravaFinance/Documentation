@@ -4,7 +4,7 @@
 
 **Step 1:**
 
-* Go to: [https://gov.trava.finance/](https://gov.trava.finance)
+* Go to: [https://gov.trava.finance/](https://gov.trava.finance/)
 * Click **“Register”**
 
 ![](https://lh3.googleusercontent.com/8QfawRWBSSARM3gcUFxsFH9Q9wiEj9RQBQXw2WjRbXx4HTa1O-eXxX5Lq8vzX5aZpIVYxZYy8oaOMek2SuN07n5ikEJIX7oU3Hb435IpAAg6tElb6W2WyRiCwS6b5BeUM8bu2KsE\_u\_hUpX22g)
@@ -37,7 +37,7 @@
 
 **Step 1:**
 
-* Go to: [https://gov.trava.finance/](https://gov.trava.finance)
+* Go to: [https://gov.trava.finance/](https://gov.trava.finance/)
 * Click **“Login”**
 
 ![](https://lh6.googleusercontent.com/\_VKCupeWVxTSUFP7qcdldiM\_dpozoNcC1UY1zENtOEkAQYveKRtFckIp9b4GL7SEF6kV5m9UP6eH7wRThW39wLMvVq\_KDqjSgnQUnPjHtt\_ihJtvf2j9ZDHdSR6RTbKuQuDHy9JBWvqw7n6KyA)
