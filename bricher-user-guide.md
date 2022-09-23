@@ -16,7 +16,7 @@ BRicher includes three main pages: Home, Strategy Exploring and Portfolio.
 
 ## **Home page introduction**
 
-The _Home_ page lists the best one-step investment strategies for all tokens supported by BRicher. Information on each strategy, such as its current ROI, ROI history, transaction fee, and reward tokens, are shown in the table. In addition, you can select a row to get detailed information on the respective strategy.
+The _Home_ page lists the best one-step investment strategies for all tokens supported by BRicher. Information on each strategy, such as its current ROI, ROI history, transaction fee and reward tokens are shown in the table. In addition, you can select a row to get detailed information on the respective strategy.
 
 At the right upper corner of the page, you can enter your favorite token to filter strategies.
 
@@ -76,7 +76,7 @@ BRicher will show general information on the strategy, such as its start and exp
 
 BRicher also displays all helpful information on each step. The relevant information is shown depending on the type of method used in the step (staking, depositing, borrowing, providing liquidity pair, swapping). All of them are real-time data collected by BRicher that can save time in making decisions.
 
-There are three methods to make a strategy: manual investing, semi-auto investing, and auto investing. The basic difference between these three is the level that BRicher supports you to make your investment.
+There are three methods to make a strategy: manual investing, semi-auto investing and auto investing. The basic difference between these three is the level that BRicher supports you to make your investment.
 
 * Manual Investing: You need to access each DApps to implement each step by yourself.
 * Semi-auto Investing: You only need to stay on the BRicher site, and for each step, you simply click on an “Execute” button. &#x20;
