@@ -2,9 +2,9 @@
 
 ## **I have problems when connecting to the platform**
 
-* Make sure to select the correct network (BSC Mainnet).&#x20;
+* Make sure to select the correct network (BSC Mainnet).
 * Connect wallets in the right manner: We are supporting Metamask and Trust wallet.
-* &#x20;Try on PC if mobile phones don’t work.
+* Try on PC if mobile phones don’t work.
 
 ## **I cannot perform transactions**
 
@@ -26,6 +26,6 @@ The following steps may solve your problems:
 
 ## **Pending confirmation is stuck**
 
-In this situation, you can get rid of the stuck transaction by speeding it up or cancelling it. Depending on the wallet you are using, you may have that option natively. Do not keep sending transactions, as every new transaction will be stuck pending the oldest transaction to be confirmed.&#x20;
+In this situation, you can get rid of the stuck transaction by speeding it up or cancelling it. Depending on the wallet you are using, you may have that option natively. Do not keep sending transactions, as every new transaction will be stuck pending the oldest transaction to be confirmed.
 
-Metamask or trust wallet has both the options to cancel or speed up transactions.\
+Metamask or trust wallet has both the options to cancel or speed up transactions.

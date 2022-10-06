@@ -12,4 +12,4 @@ Trava will provide the auction function for NFT assets. Thus, the NFT's owners c
 
 TRAVA.FINANCE auction mechanism is divided into two modes: auction-to-sell and auction-for-buy-right. The difference between two modes is the ownership of the digital asset after the auction. In the auction-to-sell mode, as soon as the auction ends and the auction winner pays the fee, he/she will immediately receive the auctioned NFT.
 
-Meanwhile, in the auction-for-buy-right mode, the winner cannot immediately buy the digital asset. After a certain amount of time specified in the auction, if the NFT owners cannot repay the loan, the auction winner can buy it at a low price. Otherwise, they get a considerable interest if the NFT owners repay the loan and get their NFT back.\
+Meanwhile, in the auction-for-buy-right mode, the winner cannot immediately buy the digital asset. After a certain amount of time specified in the auction, if the NFT owners cannot repay the loan, the auction winner can buy it at a low price. Otherwise, they get a considerable interest if the NFT owners repay the loan and get their NFT back.

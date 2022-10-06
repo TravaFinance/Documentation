@@ -12,8 +12,6 @@ The liquidation penalty (or bonus for liquidators) depends on the asset used as 
 
 ## **How to avoid being liquidated?**
 
-In order to avoid collateral liquidation, you need to maintain your health factor at a safe level. To increase health factor, you can pay back a part of your loans or deposit more assets for your borrowing amount. Among two available options, repaying the loan would increase your health factor more. We mention you should keep your health factor over 2.\
+In order to avoid collateral liquidation, you need to maintain your health factor at a safe level. To increase health factor, you can pay back a part of your loans or deposit more assets for your borrowing amount. Among two available options, repaying the loan would increase your health factor more. We mention you should keep your health factor over 2.
 
-
-****\
-****
+***

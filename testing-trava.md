@@ -14,10 +14,10 @@ If you would like to test the Trava Protocol without spending real assets, you'l
 
 ## **How to get tokens for testing?**
 
-You can get tokens to test over at [https://app.trava.finance/faucet](https://app.trava.finance/faucet).&#x20;
+You can get tokens to test over at [https://app.trava.finance/faucet](https://app.trava.finance/faucet).
 
 You just need to select the tokens you want and submit the transaction.
 
 ## **Can I access Trava Protocol functionalities in testing?**
 
-Yes, with the testnet version, you can test all the functionalities available in the mainnet app, but please take into account the data displayed won't be exactly the same as the data shown in the mainnet client. Hope you have good experience on testnet. Happy testing!\
+Yes, with the testnet version, you can test all the functionalities available in the mainnet app, but please take into account the data displayed won't be exactly the same as the data shown in the mainnet client. Hope you have good experience on testnet. Happy testing!
