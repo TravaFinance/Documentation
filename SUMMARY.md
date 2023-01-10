@@ -1,9 +1,9 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [TRAVA Pool Creation User Guide](trava-pool-creation-user-guide.md)
-* [Lending pool User Guide](lending-pool-user-guide.md)
-* [TRAVA Forum User Guide](trava-forum-user-guide.md)
+* [Trava Pool Creation User Guide](trava-pool-creation-user-guide.md)
+* [Lending Pool User Guide](lending-pool-user-guide.md)
+* [Trava Forum User Guide](trava-forum-user-guide.md)
 * [Trava DAO User Guide](trava-dao-user-guide.md)
 * [Trava Fortune Mining User Guide](trava-fortune-mining-user-guide.md)
 * [BRicher User Guide](bricher-user-guide.md)
