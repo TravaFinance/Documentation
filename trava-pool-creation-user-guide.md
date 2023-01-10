@@ -100,7 +100,7 @@ A new tab - “Pool Monitoring,” will appear, showing you information on your 
 
 <figure><img src=".gitbook/assets/Ảnh 2. Pools Monitoring .png" alt=""><figcaption></figcaption></figure>
 
-### Step 2. Manage your pool with Pool Monitoring
+#### Step 2. Manage your pool with Pool Monitoring
 
 * To access different pools, click on the little arrow beside the pool name then a pool list will appear, click on the pool that you want to check.
 
