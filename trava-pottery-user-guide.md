@@ -4,7 +4,7 @@
 
 Trava Pottery is a Quiz-to-earn game developed by Trava.Finance with the purpose to improve users’ understanding of this Ecosystem. We will provide you with various packages of questions with different topics, rewards, and time limits. All you have to do is choose a package, answer the questions within the time limit, and receive a well-deserved reward. To participate, the only requirement is that you must own BAB tokens (Binance Account Bound). You can get some extra benefits if you invite friends to join in as well. To understand more about this event, you can refer to the content at [Pottery Mechanism](https://docs.trava.finance/pottery-mechanism/).
 
-<figure><img src="https://lh3.googleusercontent.com/bYOJdehLpyBLIyDJ1KAOL4WG_PsDP3haqL0TRf0TwkHZZUMEP5N4A7dm669sd6QgHhqjecoTGipIQfnqaoknf6x3GkJr0jMt29ceIjE818sCgvHG3a7T8L1iCn6GSLmjV1Wqu0vAoUk1kxlLzC1Jhis" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 The following article will guide you in detail on how to participate and receive worthy rewards with Trava Pottery. Note that all the example images used are from the desktop interface, but don’t worry because in general, it is quite similar on other mobile devices.
 
