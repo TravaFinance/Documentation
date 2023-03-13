@@ -7,6 +7,7 @@
 * [Trava DAO User Guide](trava-dao-user-guide.md)
 * [Trava Fortune Mining User Guide](trava-fortune-mining-user-guide.md)
 * [BRicher User Guide](bricher-user-guide.md)
+* [Trava Pottery User Guide](trava-pottery-user-guide.md)
 
 ## ADDITIONAL DOCUMENT
 
