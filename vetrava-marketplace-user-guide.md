@@ -88,3 +88,4 @@ After clicking on each veTRAVA spot, all this information will be shown as follo
 
 <figure><img src="https://lh6.googleusercontent.com/ZDhTP57ohYSEzpBeFFSbH6HDmjQw9Jo0RkcijbuBXlzUde-VlOhwDb26RRbnY-pyBjyDXvrgct7PRyfHrE2V9SSgo1cBAydLprc9hw2_OsDG9G6luFI2TTBHrDUdvxdNmcEHf6GjK0JXkWKHTRDd7ck" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="https://lh5.googleusercontent.com/tkArVzvGrGXCE9cNuGvS3Mx5WmlxAUGNGVxhKfZTQb4Uugosuv4JnRVeD9U9CNdih1SFRhMCzGPHNdiSjQaSIN6kBIoWK7okG2D6TTtL1A0KV62aTzYnnzTWdlYv7apLXuOa-VY8WzGEfqb0slbXZOQ" alt=""><figcaption></figcaption></figure>
