@@ -8,7 +8,8 @@ The following article will guide you through how to operate on the veTRAVA Marke
 
 ## Join veTRAVA Marketplace
 
-**Step 1:** Visit the main site of veTRAVA Marketplace: [https://nft-app.trava.finance/marketplace/ve-trava](https://nft-app.trava.finance/marketplace/ve-trava).
+**Step 1:** Visit the main site of veTRAVA Marketplace: \
+[https://nft-app.trava.finance/marketplace/ve-trava](https://nft-app.trava.finance/marketplace/ve-trava).
 
 <figure><img src="https://lh4.googleusercontent.com/rSzHYdhMbWf9BQO9mQNbud3H2-0Osgd3KxY7HvdfI8ZAMCgWVmpmDYiwO27gsK8vXJPly4qOF3rDE3c2LGuVZz73A8iLP7oSD-HEkcQvpH67v0ih2k2vVDIvYNnxiCtZVwoVE6tFhkt4gCuBVbb1VuM" alt=""><figcaption></figcaption></figure>
 
