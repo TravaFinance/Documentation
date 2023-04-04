@@ -2,7 +2,7 @@
 
 ## Introduction
 
-veTRAVA Marketplace is a fresh move toward furthering Trava Governance, and perfecting a fully decentralized market. With its launch, you will be able to freely buy and sell veTRAVA, which represents voting power in the ecosystem. Therefore, veTRAVA Marketplace helps to distribute decision-making rights in the community, implementing decentralization. It also brings along many other benefits, which you can learn more in this article about [veTRAVA Marketplace](https://nft-app.trava.finance/marketplace/ve-trava).
+veTRAVA Marketplace is a fresh move toward furthering Trava Governance, and perfecting a fully decentralized market. With its launch, you will be able to freely buy and sell veTRAVA, which represents voting power in the ecosystem. Therefore, veTRAVA Marketplace helps to distribute decision-making rights in the community, implementing decentralization. It also brings along many other benefits, which you can learn more in this article about [veTRAVA Marketplace](https://blog.trava.finance/introduction-to-vetrava-marketplace-c9092a0c51c8).
 
 The following article will guide you through how to operate on the veTRAVA Marketplace, with details on the two main topics of buying and selling veTRAVA.
 
