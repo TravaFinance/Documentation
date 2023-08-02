@@ -30,7 +30,7 @@ As the specter of inflation pervades the crypto market, long-term token holders 
 
 **Step 3:** Or you can let the system help by clicking Auto Pick, which prioritizes lower rarities.
 
-<figure><img src="https://lh3.googleusercontent.com/0EShr4F2oT6I-mKLKzoSaFdXwuPLyfxbZ2I3zs1DOfpcuuSps6flN62L7jwVRM_DQSMCulsMCaLy86iGtt8T6Lk-OHEsdo_Il-sNGCjpwb91_QOQaUDb0z2y6KNlQfldWSaJvF79CHXPw-U5zK4lx_0" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://lh4.googleusercontent.com/Xn9Dyi-pgQIbh_hGpM1L22Rak503CiNqZe8msy0lwzi1ENCexuah_MxU5Ft88X9zVhpzFkMVfSwRepF5Rr3vpkujnHrfquTI7rDXp2az9J6s0jdM0j05vHRwFVRFTMrC_XVPPnacCXfOdy-pHLFGnz0" alt=""><figcaption></figcaption></figure>
 
 **Step 4:** Enter the number of TRAVA you want to stake.
 
