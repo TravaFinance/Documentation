@@ -9,6 +9,7 @@
 * [BRicher User Guide](bricher-user-guide.md)
 * [Trava Pottery User Guide](trava-pottery-user-guide.md)
 * [veTRAVA Marketplace User Guide](vetrava-marketplace-user-guide.md)
+* [Dilution Staking User Guide](dilution-staking-user-guide.md)
 
 ## ADDITIONAL DOCUMENT
 
