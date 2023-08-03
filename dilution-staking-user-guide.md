@@ -106,4 +106,4 @@ As the specter of inflation pervades the crypto market, long-term token holders 
 
 ## User Guide Video
 
-To make it easier for you to understand the above, we would like to provide a short video about the tasks for Dilution Staking: https://youtu.be/LE4t6A7uOJc
+To make it easier for you to understand the above, we would like to provide a short video about the tasks for Dilution Staking: [https://youtu.be/LE4t6A7uOJc](https://youtu.be/LE4t6A7uOJc)
