@@ -26,11 +26,11 @@ As the specter of inflation pervades the crypto market, long-term token holders 
 
 **Step 2:** Choose the Knights that meet the rarity and minimum power rating requirements, like here Copper, Silver and Gold, with a Power Rating of 15 for Small Battlefield.
 
-<figure><img src="https://lh6.googleusercontent.com/clxIvWpwtlIMZubX8iBssd5QzdF-F5fU-pbPWwIePqhNBf-52Djdq1A8-xnGJ6sN5HQYyXxexHaTa3rNKrRflewpsVso6A9_qw_106-izA7ErV4lWWr60N8Q5KZ8JzAy4JuJk1Zv_GP0MGxQHaF-waQ" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://lh3.googleusercontent.com/aCdF61ub5KPgAKdJncyuTKji7I3BDCL-OHh-PDuQRTcZzgdzt6ZEeuZiKWL9yV-KWU2X9yfrIKp9WLUUt1sM0S_-jDNdh0qsTszgRIKYEkW-IAOc6ae3miuLhyFpg4c2CllbvFbSNdQNFyADRQR4D6g" alt=""><figcaption></figcaption></figure>
 
 **Step 3:** Or you can let the system help by clicking Auto Pick, which prioritizes lower rarities.
 
-<figure><img src="https://lh4.googleusercontent.com/Xn9Dyi-pgQIbh_hGpM1L22Rak503CiNqZe8msy0lwzi1ENCexuah_MxU5Ft88X9zVhpzFkMVfSwRepF5Rr3vpkujnHrfquTI7rDXp2az9J6s0jdM0j05vHRwFVRFTMrC_XVPPnacCXfOdy-pHLFGnz0" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://lh6.googleusercontent.com/ht40cB02DyzAJS-urCkznAyQYt-wze_OwrHRnaMs0AFpF8YUavrvMQ1GyU6GA2UniA-K0-t4QVqUNw01Yj-iAFj5g-P26thlQ8XC13Zihe_DGBhxMbtszTeKa7PVYqxojzCqrBW2z2fQW6f60VyXLic" alt=""><figcaption></figcaption></figure>
 
 **Step 4:** Enter the number of TRAVA you want to stake.
 
