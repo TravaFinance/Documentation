@@ -11,4 +11,5 @@
 * [Developers](developers.md)
 * [Trava Knight NFT](https://docs.trava.finance/nfts/)
 * [Trava Station](https://docs.trava.finance/trava-station/)
+* [Pottery Mechanism](https://docs.trava.finance/pottery-mechanism/)
 * [Glossary](https://docs.trava.finance/glossary/)
