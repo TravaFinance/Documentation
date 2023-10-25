@@ -13,13 +13,4 @@
 
 ## ADDITIONAL DOCUMENT
 
-* [FAQ](https://docs.trava.finance/faq/)
-* [Community Telegram](https://t.me/trava\_finance)
-* [Whitepaper](https://docs.trava.finance/whitepaper)
-* [Governance](https://docs.trava.finance/governance/)
-* [Risk Management](https://docs.trava.finance/risk-management)
-* [Security](https://docs.trava.finance/security)
-* [Trava Knight NFT](https://docs.trava.finance/nfts/)
-* [Trava Station](https://docs.trava.finance/trava-station/)
-* [Pottery Mechanism](https://docs.trava.finance/pottery-mechanism/)
-* [Glossary](https://docs.trava.finance/glossary/)
+* [Portal](https://docs.trava.finance/portal/)
