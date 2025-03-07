@@ -2,7 +2,7 @@
 
 * [Trava Document Portal](README.md)
 * [FAQ](https://docs.trava.finance/faq)
-* [Community Telegram](https://t.me/trava\_finance)
+* [Community Telegram](https://t.me/trava_finance)
 * [Whitepaper](https://docs.trava.finance/whitepaper)
 * [Governance](https://docs.trava.finance/governance/)
 * [Risk Management](https://docs.trava.finance/risk-management)
@@ -11,6 +11,6 @@
 * [Developers](developers.md)
 * [Trava Knight NFT](https://docs.trava.finance/nfts/)
 * [Trava Station](https://docs.trava.finance/trava-station/)
-* [TravaGPT](https://docs.trava.finance/travagpt)
+* [AImstrong.ai](https://docs.trava.finance/aimstrong.ai)
 * [Pottery Mechanism](https://docs.trava.finance/pottery-mechanism/)
 * [Glossary](https://docs.trava.finance/glossary/)
