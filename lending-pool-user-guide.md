@@ -26,7 +26,7 @@
 
 **Step 2.** Select the network that you want:
 
-<figure><img src=".gitbook/assets/act 5.png" alt="" width="152"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot 2025-04-11 153305.png" alt="" width="136"><figcaption></figcaption></figure>
 
 ## **04 main actions in the Trava Lending pool**
 
