@@ -143,7 +143,7 @@ _Notes:_\
 &#x20;            \+ _The completed step: Turning Green_\
 &#x20;            _+ Unsuccessful step: Turning yellow as a warning notification. Once that happens, there will be an instruction pop-up window. In this case, you can follow this instruction to continue investing or cancel the whole process._\
 &#x20;     _- Because of the typical requirements of each DApp, there will be some strategies that can not be invested automatically (Only Manual Investing and Semi-auto Investing are available)_\
-&#x20;   _      ****  - Users can only execute one investment strategy at one time. That means they must finish or cancel the previous investing progress if they want to implement the other plans. Users can implement their strategies and quit the page in the middle. We support them in resuming the implementation process. However, there might be changes in prices and other parameters that affect the strategy._
+&#x20;     _- Users can only execute one investment strategy at one time. That means they must finish or cancel the previous investing progress if they want to implement the other plans. Users can implement their strategies and quit the page in the middle. We support them in resuming the implementation process. However, there might be changes in prices and other parameters that affect the strategy._
 
 ## **Portfolio**  &#x20;
 
